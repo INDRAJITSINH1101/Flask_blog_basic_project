@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/blog",
+    "prod_uri":"mysql://root:@localhost/blog",
+    "fb_url":"https://facebook.com/blog",
+    "tw_url":"https://twitter.com/blog",
+    "gh_url": "https://github.com/blog",
+    "blog_name": "Coding",
+    "tag_line": "for programmers",
+    "gmail-user":"indrajitsinh228@gmail.com",
+    "gmail-password":"xvja tfqn sqwy izhy",
+    "about_text": " I create blog website..",
+    "no_of_posts": 5,
+    "login_image":"login.jpg",
+    "admin_user":"indrajit",
+    "admin_password":"12345",
+    "upload_location":"C:\\Users\\admin\\Desktop\\flask example\\flask\\static"
+  }
+}
