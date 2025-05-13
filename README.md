@@ -1,1 +1,11 @@
 
+![1 home page](https://github.com/user-attachments/assets/d1de609e-5975-4ff9-9eca-367f01e71001)
+![2 home page](https://github.com/user-attachments/assets/9cb56f6b-4dbe-411c-9175-8cbe8fe90f77)
+![3 about](https://github.com/user-attachments/assets/eedf8fd8-aeca-4726-80ae-ce6e4ec2be97)
+![4 contact page](https://github.com/user-attachments/assets/4791326b-c41d-472e-acf1-55b64127afc7)
+![5 log in](https://github.com/user-attachments/assets/e85b5d9b-07c6-4dac-b4d3-88c4e9e35504)
+![6 admin panel](https://github.com/user-attachments/assets/551f23ab-b478-4011-b240-0af3b6d8d3be)
+![7 add post](https://github.com/user-attachments/assets/f5248838-77e4-45b4-b277-76fbc2535669)
+![8 edit post](https://github.com/user-attachments/assets/4f847ac6-7a54-44d1-a4b5-044dc081351c)
+![9 after delet post](https://github.com/user-attachments/assets/a16dddc6-f731-462d-8d05-dc3bdf364e77)
+![10 log out show message](https://github.com/user-attachments/assets/edbedbed-056c-4de9-8fe8-16017bebd2f7)
